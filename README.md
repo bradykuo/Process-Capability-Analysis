@@ -1,1 +1,1 @@
-# Process-Capability-Analysis
+# Process Capability Analysis
