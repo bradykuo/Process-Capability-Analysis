@@ -1,10 +1,31 @@
-# Process Capability Analysis Tools
+# Testing Process Performance Based on Cpk with Critical Values
 
-This project provides various numerical methods for calculating critical values in process capability analysis using the Cpk index. It includes implementations in both MATLAB and R for robust industrial process capability testing.
+This project implements Pearn and Lin's (2004) framework for process capability testing using the Cpk index. It provides MATLAB and R programs to calculate p-values and critical values, helping practitioners determine if their processes meet capability requirements through statistical hypothesis testing.
 
 ## Overview
 
 The project implements different numerical approaches to solve for critical values (c0) in process capability analysis, offering multiple optimization and integration techniques to ensure reliable results across different parameter ranges.
+
+## Key Features
+
+1. Hypothesis Testing Framework
+   * H0: Cpk ≤ C (process is not capable)
+   * H1: Cpk > C (process is capable)
+
+2. Critical Value Calculation
+   * Efficient numerical integration
+   * Multiple optimization methods
+   * Robust parameter estimation
+
+3. Process Capability Assessment
+   * Statistical hypothesis testing framework
+   * Critical value tables for different α-risks
+   * Sampling error consideration
+
+4. Visualization Tools
+   * Surface plots of critical values
+   * Parameter relationship visualization
+   * Comprehensive result tables
 
 ## Available Implementations
 
@@ -36,6 +57,13 @@ The project implements different numerical approaches to solve for critical valu
   - Interactive visualizations in MATLAB and R
 - Table generation for critical values
 - Robust error handling and numerical stability measures
+
+## Testing Procedure
+
+1. Set capability requirement (C) and α-risk
+2. Calculate Ĉpk from sample data
+3. Find critical value c0 from tables or computation
+4.Compare Ĉpk with c0 to make capability decision
 
 ## Usage Examples
 
