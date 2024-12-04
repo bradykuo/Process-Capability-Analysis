@@ -107,10 +107,6 @@ This implementation is suitable for:
 - Acceptance sampling procedures
 - Quality improvement initiatives
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is available for academic and educational purposes.
