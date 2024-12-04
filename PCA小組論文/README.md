@@ -39,8 +39,10 @@ where:
 - σ: Process standard deviation
 
 2. Acceptance Criteria:
-- b₁ = 3 * CAQL * (1 + ξ²)^0.5
-- b₂ = 3 * CLTPD * (1 + ξ²)^0.5
+```
+b₁ = 3 * CAQL * (1 + ξ²)^0.5
+b₂ = 3 * CLTPD * (1 + ξ²)^0.5
+```
 
 where ξ is the distribution characteristic parameter.
 
