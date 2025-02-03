@@ -1,4 +1,4 @@
-# Variables Sampling Inspection Scheme Implementation
+# Variables sampling inspection scheme for resubmitted lots based on the process capability index Cpk
 Implementation of a sampling inspection scheme for resubmitted lots based on the process capability index Cpk, as described in [Wu et al. (2012)](https://doi.org/10.1016/j.ejor.2011.09.042).
 
 ## Features
