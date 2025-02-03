@@ -113,4 +113,4 @@ This project is available for academic and educational purposes.
 
 ## References
 
-1. Pearn, W.L., & Wu, C.W. (2006). Variables sampling plans with PPM fraction of defectives and process loss consideration. Journal of the Operational Research Society, 57, 450-459.
+Pearn, W.L., & Wu, C.W. (2006). Variables sampling plans with PPM fraction of defectives and process loss consideration. Journal of the Operational Research Society, 57, 450-459.
