@@ -53,10 +53,10 @@ table3 <- generate_table3()
 - dplyr
 - plotly
 
-## References
-
-Pearn, W.L., Wu, C.-W. (2007). An effective decision making method for product acceptance. Omega, 35(1), 12-21.
-
 ## License
 
 This project is available for academic and educational purposes.
+
+## References
+
+Pearn, W.L., Wu, C.-W. (2007). An effective decision making method for product acceptance. Omega, 35(1), 12-21.
