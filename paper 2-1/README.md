@@ -136,11 +136,12 @@ The project includes several visualization methods:
 ### Numerical Integration
 Each implementation uses numerical integration techniques to evaluate the objective function, with proper error handling and boundary condition management.
 
+## License
+
+This project is available for academic and educational purposes.
+
 ## References
 
 1. Testing process performance based on capability index Cpk with critical values (Computers & Industrial Engineering, 2004)
 2. Process Capability Analysis Lecture 3-2: The Cpk CDF (Supplementary material)
 
-## License
-
-This project is available for academic and educational purposes.
