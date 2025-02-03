@@ -1,5 +1,5 @@
 # Process Capability Indices Calculator
-Implementation of algorithms for calculating lower confidence bounds of CPU and CPL process capability indices, as described in [Pearn et al. (2003)](https://doi.org/10.1016/S0026-2714(02)00264-0).
+Implementation of algorithms for calculating lower confidence bounds of process capability indices (CPU, CPL, Cp, and Cpk), based on the work by Pearn et al. (2003) and Chou et al. (1990).
 
 ## Features
 - Calculates lower confidence bounds for CPU and CPL indices
@@ -64,5 +64,5 @@ This project is available for academic and educational purposes.
 
 ## References
 1. Pearn, W.L., & Shu, M.-H. (2003). An algorithm for calculating the lower confidence bounds of CPU and CPL with application to low-drop-out linear regulators. Microelectronics Reliability, 43(3), 495-502.
-
 2. Pearn, W.L., & Shu, M.-H. (2003). Erratum to "An algorithm for calculating the lower confidence bounds of CPU and CPL with application to low-drop-out linear regulators". Microelectronics Reliability, 43(8), 1349.
+3. Chou, Y.M., Owen, D.B., Borrego, S.A. (1990). Lower Confidence Limits on Process Capability Indices. Journal of Quality Technology, 22:3, 223-229.
