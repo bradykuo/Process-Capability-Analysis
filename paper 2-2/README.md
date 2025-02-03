@@ -126,10 +126,10 @@ where:
 - `paper2_2graph.m`: MATLAB implementation of MPPAC plotting
 - `paper2_2table.m`: MATLAB implementation of confidence bound tables
 
-## References
-
-1. Pearn, W.L., & Shu, M.-H. (2003). Manufacturing capability control for multiple power-distribution switch processes based on modified Cpk MPPAC. Microelectronics Reliability, 43(7), 963-975.
-
 ## License
 
 This project is available for academic and educational purposes.
+
+## References
+
+1. Pearn, W.L., & Shu, M.-H. (2003). Manufacturing capability control for multiple power-distribution switch processes based on modified Cpk MPPAC. Microelectronics Reliability, 43(7), 963-975.
