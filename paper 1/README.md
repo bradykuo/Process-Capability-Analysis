@@ -101,4 +101,4 @@ This project is available for academic and educational purposes.
 
 ## References
 
-1. Mathew, T., Sebastian, G., & Kurian, K. M. (2007). Generalized confidence intervals for process capability indices. Quality and Reliability Engineering International, 23(4), 471-481.
+Mathew, T., Sebastian, G., & Kurian, K. M. (2007). Generalized confidence intervals for process capability indices. Quality and Reliability Engineering International, 23(4), 471-481.
