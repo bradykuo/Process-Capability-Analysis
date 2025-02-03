@@ -133,6 +133,3 @@ This project is available for academic and educational purposes.
 1. Efron, B. (1979). Bootstrap methods: another look for the jack-knife. The Annals of Statistics
 2. Franklin, L.A. and Wasserman, G.S. (1992). Bootstrap lower confidence limits for process capability indices
 3. Efron, B. and Tibshirani, R. (1986). Bootstrap methods for standard errors, confidence intervals
-
-## Acknowledgments
-Special thanks to the original paper authors and the statistical community for developing these methods.
